@@ -8,10 +8,10 @@
 ### Connect with me:
 
 <img align="left" alt="GitHub" src="https://img.icons8.com/ios-filled/26/000000/github.png"/> <a href="github.com/josemartin357"> -> github.com/josemartin357</a>
-<br />
+<br>
 <img align="left" alt="LinkedIn" src="https://img.icons8.com/external-justicon-flat-justicon/26/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> <a href="linkedin.com/in/martinbedoya87"> -> linkedin.com/in/martinbedoya87</a>
 
-<br />
+<br>
 
 ### Languages and Tools:
 
