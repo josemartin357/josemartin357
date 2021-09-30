@@ -12,6 +12,7 @@
 <img alt="LinkedIn" src="https://img.icons8.com/external-justicon-flat-justicon/26/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> <a href="https://www.linkedin.com/in/martinbedoya87"> linkedin.com/in/martinbedoya87</a>
 <br>
 <img alt="Email" src="https://img.icons8.com/fluency/26/000000/email.png"/> <a href = "mailto: martin.bedoya2021@gmail.com">Send Email</a>
+<br>
 <img alt="Portfolio" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/26/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"/> <a href="https://josemartin357.github.io/martin-bedoya-portfolio/"> Portfolio here</a>
 
 <br>
