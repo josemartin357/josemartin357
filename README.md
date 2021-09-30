@@ -10,6 +10,8 @@
 <img alt="GitHub" src="https://img.icons8.com/ios-filled/26/000000/github.png"/> <a href="https://github.com/josemartin357"> github.com/josemartin357</a>
 <br>
 <img alt="LinkedIn" src="https://img.icons8.com/external-justicon-flat-justicon/26/000000/external-linkedin-social-media-justicon-flat-justicon.png"/> <a href="https://www.linkedin.com/in/martinbedoya87"> linkedin.com/in/martinbedoya87</a>
+<br>
+<img alt="Email" src="https://img.icons8.com/fluency/26/000000/email.png"/> <a href = "mailto: martin.bedoya2021@gmail.com">Send Email</a>
 
 <br>
 
