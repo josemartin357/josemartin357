@@ -5,7 +5,7 @@
 - 👀  Who I am: Always curious ... and logical at finding things out.
 - 🌱  How I have grown: started as production assistant, grew to senior and department director roles.
 - 😄  Pronouns: he/him.
-- ⚡   Fun Facts: Love food more than i love workouts, Traveling is my therapy.
+- ⚡   Fun Facts: Love food more than I love workouts, Traveling is my therapy.
 
 ### Connect with me:
 
