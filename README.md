@@ -1,7 +1,7 @@
 ### Welcome! I'm Martin Bedoya 👋
 
 
-- 🔭  Professional w/10 yrs of experience in Mass Media/Broadcasting, currently studying Web Development @ SMU.
+- 🔭  Professional w/10 yrs of experience in Mass Media, currently studying Web Development @ SMU.
 - 👀  Who I am: Always curious ... and logical at finding things out.
 - 🌱  How I have grown: started as production assistant, grew to senior and department director roles.
 - 😄  Pronouns: he/him.
