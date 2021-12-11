@@ -1,11 +1,13 @@
 ### Welcome! I'm Martin Bedoya 👋
 
 
-- 🔭  Professional w/10 yrs of experience in Mass Media, currently studying Web Development @ SMU.
-- 👀  Who I am: Always curious ... and logical at finding things out.
-- 🌱  How I have grown: started as production assistant, grew to senior and department director roles.
+- 🔭  Full-Stack Web Developer with a background in broadcast communications and newly acquired skills in frontend, backend and database technologies. 
+- 🤔  Who I am: Always curious ... and logical at finding things out.
+- 🏛  My education includes a certificate in full-stack web dev @ SMU, MA in media management @ OU, BA in Communications @ UCO and AS in business @ OCCC.
+- 🌱  How I have grown: started as production assistant, grew to senior and department director roles. Now taking my skills to web dev.
 - 😄  Pronouns: he/him.
 - ⚡   Fun Facts: Love food more than I love workouts, Traveling is my therapy.
+- 📩  martin.bedoya2021@gmail.com
 
 ### Connect with me:
 
@@ -24,6 +26,8 @@
 <img align="left" alt="HTML" src="https://img.icons8.com/color/26/000000/html.png"/>
 <img align="left" alt="CSS" src="https://img.icons8.com/color/26/000000/css3.png"/>
 <img align="left" alt="JavaScript" src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
+<img align="left" alt="MongoDB" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
+<img align="left" alt="React"  src="https://img.icons8.com/office/26/000000/react.png"/>
 <img align="left" alt="Bootstrap" src="https://img.icons8.com/color/26/000000/bootstrap.png"/>
 <img align="left" alt="Node.js" src="https://img.icons8.com/color/26/000000/nodejs.png"/>
 <img align="left" alt="MySQL" src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
