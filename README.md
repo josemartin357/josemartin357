@@ -23,16 +23,17 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML" src="https://img.icons8.com/color/26/000000/html.png"/>
-<img align="left" alt="CSS" src="https://img.icons8.com/color/26/000000/css3.png"/>
-<img align="left" alt="JavaScript" src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
-<img align="left" alt="MongoDB" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
-<img align="left" alt="React"  src="https://img.icons8.com/office/26/000000/react.png"/>
-<img align="left" alt="Bootstrap" src="https://img.icons8.com/color/26/000000/bootstrap.png"/>
-<img align="left" alt="Node.js" src="https://img.icons8.com/color/26/000000/nodejs.png"/>
-<img align="left" alt="MySQL" src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
-<img align="left" alt="Heroku" src="https://img.icons8.com/color/26/000000/heroku.png"/>
-<img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/26/000000/visual-studio-code-2019.png"/>
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="HTML" width="36px" src="https://img.icons8.com/color/26/000000/html.png"/>
+<img align="left" alt="CSS" width="36px" src="https://img.icons8.com/color/26/000000/css3.png"/>
+<img align="left" alt="JavaScript" width="36px" src="https://img.icons8.com/color/26/000000/javascript--v1.png"/>
+<img align="left" alt="MongoDB" width="36px" src="https://img.icons8.com/color/26/000000/mongodb.png"/>
+<img align="left" alt="React" width="36px" src="https://img.icons8.com/office/26/000000/react.png"/>
+<img align="left" alt="Bootstrap" width="36px" src="https://img.icons8.com/color/26/000000/bootstrap.png"/>
+<img align="left" alt="Node.js" width="36px" src="https://img.icons8.com/color/26/000000/nodejs.png"/>
+<img align="left" alt="MySQL" width="36px" src="https://img.icons8.com/color/26/000000/mysql-logo.png"/>
+<img align="left" alt="Heroku" width="36px" src="https://img.icons8.com/color/26/000000/heroku.png"/>
+<img align="left" alt="Visual Studio Code" width="36px" src="https://img.icons8.com/color/26/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="Terminal" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Express" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img align="left" alt="Handlebars" width="36px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original-wordmark.svg" />
 
