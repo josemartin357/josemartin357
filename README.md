@@ -17,7 +17,7 @@
 <br>
 <img alt="Email" src="https://img.icons8.com/fluency/26/000000/email.png"/> <a href = "mailto: martin.bedoya2021@gmail.com">Send Email</a>
 <br>
-<img alt="Portfolio" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/26/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"/> <a href="https://josemartin357.github.io/martin-bedoya-portfolio/"> Portfolio here</a>
+<img alt="Portfolio" src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/26/000000/external-portfolio-advertising-kiranshastry-lineal-color-kiranshastry.png"/> <a href="https://josemartin357.github.io/react-portfolio/"> Portfolio here</a>
 
 <br>
 
@@ -34,6 +34,5 @@
 <img align="left" alt="Heroku" src="https://img.icons8.com/color/26/000000/heroku.png"/>
 <img align="left" alt="Visual Studio Code" src="https://img.icons8.com/color/26/000000/visual-studio-code-2019.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-
+<img align="left" alt="Express" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 
