@@ -3,7 +3,7 @@
 
 - 🔭  Full-Stack Web Developer with a background in broadcast communications and skills in frontend, backend and database technologies. 
 - 👨🏽‍💻   Incoming Media Tech in Software Engineering @ NBC Universal
-- 💻  Currently learning <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> and studying from Harvard's David Malan's CS50 class.
+- 💻  Currently learning <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> and studying from Harvard University's David Malan's CS50 class.
 - 🤔  Who I am: Always curious ... and logical at finding things out.
 - 🏛  My education includes a certificate in full-stack web dev @ SMU, MA in media management @ OU, BA in Communications @ UCO and AS in business @ OCCC.
 - 🌱  How I have grown: started as production assistant, grew to senior and department director roles. Now taking my skills to web dev.
