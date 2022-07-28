@@ -1,12 +1,9 @@
 ### Welcome! I'm Martin Bedoya 👋
 
-
-- 🔭  Full-Stack Web Developer with a background in broadcast communications and skills in frontend, backend and database technologies. 
-- 👨🏽‍💻   Incoming Media Tech in Software Engineering @ NBC Universal
-- 💻  Currently learning <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> and studying from Harvard University's David Malan's CS50 class.
+- 👨🏽‍💻  Software Engineer Media Tech @ NBC Universal
+- 🔭  Full-Stack Web Developer with a background in broadcast communications as a TV producer. 
+- 💻  My education includes a certification in full-stack web dev @ SMU, comp sci studies @ Harvard University's CS 50 class, MA in media management @ OU, BA in Communications @ UCO and AS in business @ OCCC.
 - 🤔  Who I am: Always curious ... and logical at finding things out.
-- 🏛  My education includes a certificate in full-stack web dev @ SMU, MA in media management @ OU, BA in Communications @ UCO and AS in business @ OCCC.
-- 🌱  How I have grown: started as production assistant, grew to senior and department director roles. Now taking my skills to web dev.
 - 😄  Pronouns: he/him.
 - ⚡   Fun Facts: Love food more than I love workouts, Traveling is my therapy.
 - 📩  martin.bedoya2021@gmail.com
