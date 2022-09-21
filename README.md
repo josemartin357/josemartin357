@@ -1,7 +1,7 @@
 ### Welcome! I'm Martin Bedoya 👋
 
-- 👨🏽‍💻  Software Engineering Media Tech @ NBC Universal
-- 💻  Full-Stack Web Developer with a background in broadcast communications as a TV producer. 
+- 👨🏽‍💻  Software Developer @ NBC Universal
+- 💻  Developer with a background in broadcast communications, currently working in the Production Software Engineering team @ NBCU. 
 - 🏛  My education includes a certification in full-stack web dev @ SMU, comp sci studies @ Harvard University's CS 50 class, MA in media management @ OU, BA in Communications @ UCO and AS in business @ OCCC.
 - 🤔  Who I am: Always curious ... and logical at finding things out.
 - 😄  Pronouns: he/him.
